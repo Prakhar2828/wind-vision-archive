@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "release_id": 442569624,
+  "verified_assets": 26,
+  "verified_bytes": 27905146880,
+  "server_sha256_digests_match": true,
+  "full_remote_download_restore_tested": false
+}
