@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "restored_files": 3855,
+  "unique_objects": 1948,
+  "original_manifest_sha256": "0cd81f78d60ab61808363578a0a1f99917ebbcd9f98af2af3eab487f2c6c2775",
+  "all_restored_file_sha256_verified": true,
+  "embedded_manifest_verified": true,
+  "remote_restoration_tested": false
+}

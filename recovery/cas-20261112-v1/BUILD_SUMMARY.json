@@ -1,0 +1,10 @@
+{
+  "format": "Wind VISION content-addressed TAR v1",
+  "source_files": 3855,
+  "unique_blobs": 1948,
+  "parts": 26,
+  "archive_bytes": 27905146880,
+  "original_manifest_sha256": "0cd81f78d60ab61808363578a0a1f99917ebbcd9f98af2af3eab487f2c6c2775",
+  "remote_upload_complete": false,
+  "restoration_verified": false
+}
