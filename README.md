@@ -1,24 +1,22 @@
 # Wind VISION Research Archive
 
-Private historical evidence repository.
+Public historical evidence and archive metadata for Prakhar Pandey's Wind VISION research.
 
-## Archived snapshot
+## Reproduce the public results now
 
-- Original master: 3,855 files
-- Snapshot size: 35.378 GiB
-- File-level SHA-256 audit: Passed
-- Stage 45: Last executed
-- Stage 46: Not executed
+**[Wind VISION — Results Replay v1](https://github.com/Prakhar2828/wind-vision-research/releases/tag/results-replay-v1)** is the recommended starting point. Its self-contained portable ZIP includes the synthetic test data, frozen predictions, locked protocol, original reports, pinned CPU dependencies and tested replay code. The release also supplies the original RC2 model/phase-decoder candidate as a separate asset.
 
-## Storage approach
+Fresh-extraction CPU checks passed for all eight methods' metrics, three regenerated classical baselines, seven paired bootstrap intervals and four archived timing medians. See the release's actual JSON receipt and SHA-256 sums. Neural training/inference and GPU benchmarks were not rerun for that publication; the original RC2's 108-file manifest was verified separately.
 
-Small verification metadata will be version-controlled.
+[Source and runnable instructions](https://github.com/Prakhar2828/wind-vision-research/tree/main/releases/portable-v1) · [Portfolio explanation and original figures](https://prakhar-pandey-portfolio.yoofis.chatgpt.site/wind-vision.html)
 
-Large, approved research artifacts will be stored as
-versioned GitHub Release assets with SHA-256 checksums.
+## Historical snapshot — a separate artifact
 
-The Mac master archive remains the authoritative local snapshot.
+- Original master: 3,855 files, 35.378 GiB before content-addressed packaging.
+- File-level SHA-256 audit and local restoration test passed.
+- Stage 45 was the last executed research stage; Stage 46 was not executed.
+- Full remote download/restoration of the complete historical snapshot has not been tested. This README makes no claim that the entire historical snapshot is publicly replayable.
 
-## Recovery status
+The local master remains the historical archive authority. Small verification metadata and dated curation records remain here; large research assets use versioned releases and checksums. Earlier upload-pending/private-repository wording in historical records does not describe the new public **results replay** release, which does not require downloading the historical master.
 
-Full remote archive upload and restoration testing are pending.
+Synthetic research and upstream public-source material only. No internal NASA operational data or NASA endorsement is represented.
